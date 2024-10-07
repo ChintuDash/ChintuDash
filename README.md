@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ChintuDash/ChintuDash/blob/main/bg2.png)
 <h1 align="center">Hi 🙏, I'm Chintu Dash</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
